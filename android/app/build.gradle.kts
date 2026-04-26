@@ -23,7 +23,7 @@ android {
 
     defaultConfig {
         applicationId = "com.example.sikp_mobile"
-        minSdk = flutter.minSdkVersion
+        minSdk = 23
         targetSdk = 35
         versionCode = flutter.versionCode
         versionName = flutter.versionName
